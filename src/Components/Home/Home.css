@@ -1,0 +1,149 @@
+/*---start media query----*/
+
+@media (max-width: 1399.98px) {
+}
+
+@media (max-width: 1199.98px) {
+  .ftoo {
+    width: 100% !important;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .social {
+    margin-left: 5px;
+  }
+  #Home .slide-content h1 {
+    font-size: 30px !important;
+  }
+  .top {
+    display: none;
+  }
+  .imgfooter3 {
+    display: none;
+  }
+  .imgfooter2 {
+    display: none;
+  }
+  .imgfooter {
+    display: none;
+  }
+  .nav .active::after {
+    /* height: 0px !important;
+    width: 0px !important; */
+  }
+}
+@media (max-width: 850.98px) {
+  .colles {
+    display: none;
+  }
+  .colles1 {
+    display: none;
+  }
+  .top {
+    display: none;
+  }
+  nav .active::after {
+    content: "" !important;
+    position: absolute !important;
+    height: 0px !important;
+    width: 0% !important;
+    background-color: rgb(245, 175, 0) !important;
+    bottom: 1px !important;
+    left: 5px !important;
+  }
+  .social {
+    margin-left: 10px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .social {
+    margin-left: 10px;
+  }
+  .colles {
+    display: none;
+  }
+  .image .imgg2,
+  .imgg1 {
+    display: none;
+  }
+  .colles1 {
+    display: none;
+  }
+  .imagee {
+    display: none;
+  }
+  .image .imgg3 {
+    left: 0%;
+    width: 100%;
+  }
+  .content1 {
+    width: 100%;
+    margin-top: 170px;
+    display: flex;
+    flex-direction: column;
+  }
+  .content1 div {
+    margin-bottom: 10px;
+  }
+  .div2 {
+    border: 3px solid var(--main-color);
+    height: 200px;
+    width: 200px;
+    transform: rotate(-20deg);
+    border-radius: 10px;
+    position: relative;
+    right: 0px;
+    margin-bottom: 40px;
+  }
+  .div1 {
+    background-color: chocolate;
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    transform: rotate(20deg);
+    margin-bottom: 40px;
+  }
+  .div1 img {
+    width: 250px;
+  }
+  .im {
+    display: none;
+  }
+  .fonts {
+    font-size: 30px !important;
+  }
+}
+
+@media (max-width: 626.98px) {
+  .colles {
+    display: none;
+  }
+  .colles1 {
+    display: none;
+  }
+}
+@media (max-width: 575.98px) {
+  .colles {
+    display: none;
+  }
+  .colles1 {
+    display: none;
+  }
+}
+@media (max-width: 390px) {
+  .colles {
+    display: none;
+  }
+  .colles1 {
+    display: none;
+  }
+}
+
+/*----end media query----*/
+.imgg2 {
+  right: 25%;
+  position: absolute;
+  z-index: 9 !important;
+}

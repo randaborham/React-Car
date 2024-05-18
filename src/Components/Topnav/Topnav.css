@@ -1,0 +1,31 @@
+@media (max-width: 850.98px) {
+  .colles {
+    display: none;
+  }
+  .colles1 {
+    display: none;
+  }
+  .top {
+    display: none;
+  }
+  nav .active::after {
+    content: "" !important;
+    position: absolute !important;
+    height: 0px !important;
+    width: 0% !important;
+    background-color: rgb(245, 175, 0) !important;
+    bottom: 1px !important;
+    left: 5px !important;
+  }
+}
+@media (max-width: 991px) {
+  nav .active::after {
+    content: "" !important;
+    position: absolute !important;
+    height: 0px !important;
+    width: 0% !important;
+    background-color: rgb(245, 175, 0) !important;
+    bottom: 1px !important;
+    left: 5px !important;
+  }
+}
