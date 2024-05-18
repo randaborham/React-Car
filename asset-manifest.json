@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React-Car/static/css/main.548a50d5.css",
+    "main.js": "/React-Car/static/js/main.71d2fab2.js",
+    "static/js/453.ad6eb26e.chunk.js": "/React-Car/static/js/453.ad6eb26e.chunk.js",
+    "static/media/rpng": "/React-Car/static/media/r5c0b4393bc4652e4f0dcb6f63e21e855.ad950d2e70e749f1bbae.png",
+    "static/media/png": "/React-Car/static/media/c7ef03beddef6648a51b9c672dfec93e.fce0e176cb350af623eb.png",
+    "static/media/2.png": "/React-Car/static/media/2.cf9d12b5a1eca3225ca6.png",
+    "static/media/mappng": "/React-Car/static/media/map989117027069c01f62b7c56e53fe91b1.0ecad9870feb5f90453e.png",
+    "static/media/update.png": "/React-Car/static/media/update.9e41cabaeb8f93dbfb6f.png",
+    "static/media/photo_2024-05-07_14-04-47-removebg-preview.png": "/React-Car/static/media/photo_2024-05-07_14-04-47-removebg-preview.3dc01904c1ffbe92feff.png",
+    "static/media/1.png": "/React-Car/static/media/1.eb3cbae51942307438a2.png",
+    "static/media/mmpng": "/React-Car/static/media/mmb917ac9dfe8b25faae470380a5953fd0.9b57557aac4984d473c6.png",
+    "static/media/3.png": "/React-Car/static/media/3.6c084d41834e9c094024.png",
+    "static/media/b.png": "/React-Car/static/media/b.6c084d41834e9c094024.png",
+    "static/media/4.png": "/React-Car/static/media/4.a6df722562d1f046dcc5.png",
+    "static/media/a.png": "/React-Car/static/media/a.ebd99dbc83ea983de499.png",
+    "index.html": "/React-Car/index.html",
+    "main.548a50d5.css.map": "/React-Car/static/css/main.548a50d5.css.map",
+    "main.71d2fab2.js.map": "/React-Car/static/js/main.71d2fab2.js.map",
+    "453.ad6eb26e.chunk.js.map": "/React-Car/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.548a50d5.css",
+    "static/js/main.71d2fab2.js"
+  ]
+}
